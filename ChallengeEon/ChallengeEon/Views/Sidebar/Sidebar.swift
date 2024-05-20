@@ -166,9 +166,13 @@ struct Sidebar: View {
             .onTapGesture {
                 isSidebarVisible.toggle()
                 if text == userActions.first?.text {
-                    navigationManager.viewType = .home
+                    if navigationManager.viewType != .home {
+                        navigationManager.viewType = .home
+                    }
                 } else {
-                    navigationManager.viewType = .categories
+                    if navigationManager.viewType != .categories {
+                        navigationManager.viewType = .categories
+                    }
                 }
             }
             

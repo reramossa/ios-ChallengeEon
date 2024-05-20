@@ -135,118 +135,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "C3F2BB02-E1D0-4AC4-80E1-E922ADE87708"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ChallengeEon/Views/Categories/CategoriesViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "56"
-            endingLineNumber = "56"
-            landmarkName = "loadCategories()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "C3F2BB02-E1D0-4AC4-80E1-E922ADE87708 - 77aad0ccd1a9cd1d"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #2 (ChallengeEon.CategoriesModel) -&gt; () in closure #1 @Swift.MainActor @Sendable () async -&gt; () in ChallengeEon.CategoriesViewModel.loadCategories() -&gt; ()"
-                  moduleName = "ChallengeEon"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/rafa/Documents/Pods/ChallengeEon/ChallengeEon/Views/Categories/CategoriesViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "56"
-                  endingLineNumber = "56"
-                  offsetFromSymbolStart = "238">
-               </Location>
-               <Location
-                  uuid = "C3F2BB02-E1D0-4AC4-80E1-E922ADE87708 - ffc80057fe3c2c7f"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Swift.MainActor @Sendable () -&gt; () in closure #2 (ChallengeEon.CategoriesModel) -&gt; () in closure #1 @Swift.MainActor @Sendable () async -&gt; () in ChallengeEon.CategoriesViewModel.loadCategories() -&gt; ()"
-                  moduleName = "ChallengeEon"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/rafa/Documents/Pods/ChallengeEon/ChallengeEon/Views/Categories/CategoriesViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "57"
-                  endingLineNumber = "57"
-                  offsetFromSymbolStart = "178">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "2F09FC2D-5620-4D32-8108-DCC5B3B7AB89"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ChallengeEon/Views/Categories/CategoriesViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "53"
-            endingLineNumber = "53"
-            landmarkName = "loadCategories()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "2F09FC2D-5620-4D32-8108-DCC5B3B7AB89 - 301e0f9b6ce97f4c"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 @Swift.MainActor @Sendable () async -&gt; () in ChallengeEon.CategoriesViewModel.loadCategories() -&gt; ()"
-                  moduleName = "ChallengeEon"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/rafa/Documents/Pods/ChallengeEon/ChallengeEon/Views/Categories/CategoriesViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "53"
-                  endingLineNumber = "53"
-                  offsetFromSymbolStart = "122">
-               </Location>
-               <Location
-                  uuid = "2F09FC2D-5620-4D32-8108-DCC5B3B7AB89 - 301e0f9b6ce97f4c"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 @Swift.MainActor @Sendable () async -&gt; () in ChallengeEon.CategoriesViewModel.loadCategories() -&gt; ()"
-                  moduleName = "ChallengeEon"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/rafa/Documents/Pods/ChallengeEon/ChallengeEon/Views/Categories/CategoriesViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "53"
-                  endingLineNumber = "53"
-                  offsetFromSymbolStart = "174">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "D704985B-DBFF-4030-B68C-4A6B90B135E7"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ChallengeEon/Views/Categories/CategoriesViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "57"
-            endingLineNumber = "57"
-            landmarkName = "loadCategories()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "6503DCDA-0501-4918-A2EB-8B40D5F33573"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
@@ -258,6 +146,38 @@
             endingLineNumber = "32"
             landmarkName = "init(strCategory:state:)"
             landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E304C27D-F156-4E31-811E-63C4DC81621C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChallengeEon/Views/ContentView/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "935E82D3-4C36-46D6-A965-87E1F353083E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChallengeEon/Views/Sidebar/Sidebar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "body"
+            landmarkType = "24">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
