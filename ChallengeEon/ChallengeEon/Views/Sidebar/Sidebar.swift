@@ -21,8 +21,8 @@ struct MenuItem: Identifiable {
 }
 
 var userActions: [MenuItem] = [
-    MenuItem(id: 4001, icon: "person.circle.fill", text: "Home"),
-    MenuItem(id: 4002, icon: "bag.fill", text: "Categorias"),
+    MenuItem(id: 4001, icon: "homekit", text: "Home"),
+    MenuItem(id: 4002, icon: "doc.text", text: "Categorias"),
 ]
 
 struct Sidebar: View {
